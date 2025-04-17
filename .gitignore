@@ -1,0 +1,32 @@
+# Gerado automaticamente para projetos Android Studio
+
+# Diretórios do Android Studio
+.idea/
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Arquivos de configuração do sistema
+.DS_Store
+*.iml
+local.properties
+
+# Arquivos de log e caches
+*.log
+*.cache
+
+# Configuração do Android Emulator
+*.hprof
+
+# Arquivos de ambiente do sistema
+.env
+
+# Diretórios do Kotlin
+**/out/
+
+# Arquivos de backup
+*.bak
+*.tmp
+*.swp
